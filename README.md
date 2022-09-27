@@ -1,9 +1,9 @@
-#React Mini Project
+# React Mini Project
 
-##Idea
+## Idea
 Rendered a list of people with a their data.
 
-##Purpose
+## Purpose
 Investigating JSX syntex, JS loops and React Hooks to render data from hooks
 
 ## Design Inspiration
